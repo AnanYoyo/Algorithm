@@ -5,6 +5,6 @@ package per.zqa.algorithm.dichotomy;
  */
 public class FindTheFarLeftOrRight {
 
-
+1
 
 }
